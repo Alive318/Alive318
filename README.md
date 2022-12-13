@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Callcenter Software<br>👯 I’m looking to collaborate on ASP.NET-Core & WPF-Projects<br>🌱 I’m currently learning Angular<br>💬 Ask me about C#<br>⚡ Work harder, be better
+I’m looking to collaborate on ASP.NET-Core & WPF-Projects<br>🌱 I’m currently learning Angular<br>💬 Ask me about C#<br>⚡ Work harder, be better
 
 
 ## 🌐 Socials:
